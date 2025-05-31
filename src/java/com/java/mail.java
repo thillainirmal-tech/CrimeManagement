@@ -107,9 +107,9 @@ public class mail extends HttpServlet {
             // String key= rs1.getString(4);
           
                 
-               final String  from="prabu.mk@pantechmail.com";
+               final String  from="hr@gmail.com";
                final String password="prabhu11394";
-               final String to="prabu.mk@pantechmail.com";
+               final String to="thillai@tech";
          Session session = Session.getInstance(properties, new javax.mail.Authenticator() 
          {
             protected PasswordAuthentication getPasswordAuthentication() {
